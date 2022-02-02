@@ -1,0 +1,31 @@
+.main {
+  background-color: #ff4c68;
+  border-radius: 25px;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  border-radius: 25px;
+  border: 2px solid white;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #FFEEAD;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.CSGO {
+  margin-left: 50px;
+}
+
+.nmain {
+  background-color: #FF5677;
+}

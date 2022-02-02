@@ -1,0 +1,133 @@
+body {
+  background-color: #B8405E;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Source Serif 4', sans-serif;
+  font-size: 44px;
+}
+
+img {
+  height: 450px;
+  width: 450px;
+  margin-left: 50px;
+  border-radius: 50%;
+  border: 3.5px solid black;
+}
+
+h2 {
+  position: absolute;
+  right: 350px;
+  font-family: 'Source Serif 4', sans-serif;
+  font-size: 44px;
+}
+
+a {
+  font-size: 2.5rem;
+  font-family: 'Source Serif 4', sans-serif;
+  position: absolute;
+  text-decoration: none;
+  color: #EEE6CE;
+}
+
+.insta {
+  background-color: white;
+  position: absolute;
+  right: 400px;
+  top: 255px;
+  height: 75px;
+  width: 75px;
+}
+
+#gif1 {
+  border-radius: auto;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 28px;
+  left: 845px;
+}
+
+.you-tube {
+  background-color: white;
+  position: absolute;
+  right: 400px;
+  top: 550px;
+  height: 75px;
+  width: 75px;
+}
+
+.linked-in {
+  background-color: white;
+  position: absolute;
+  right: 400px;
+  top: 400px;
+  height: 75px;
+  width: 75px;
+}
+
+a:hover {
+  color: blue;
+}
+
+br {
+  display: inline-block;
+}
+
+#one {
+  right: 480px;
+  top: 250px;
+}
+
+#two {
+  right: 500px;
+  top: 400px;
+}
+
+#three {
+  right: 505px;
+  top: 550px;
+}
+
+.button {
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 33px;
+  margin: 4px 15px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+#gif2 {
+  border-radius: auto;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 450px;
+  top: 10px;
+  border: solid #B8405E;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 3px solid white;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.button1:hover {
+  background-color: powderblue;
+  color: black;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+#uni {
+  margin-left: 150px;
+  margin-bottom: 100px;
+}
